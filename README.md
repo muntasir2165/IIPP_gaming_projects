@@ -1,7 +1,7 @@
 IIPP_gaming_projects
 ====================
 
-**Python game projects**
+**Python game projects**  
 The following is a list of games implemented in Python designed to be run specifically on
 CodeSkulptor (http://www.codeskulptor.org/) using its SimpleGUI Graphics Module. 
 
