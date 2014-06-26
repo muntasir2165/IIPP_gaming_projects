@@ -2,7 +2,7 @@ IIPP_gaming_projects
 ====================
 
 **Python game projects**  
-The following is a list of games implemented in Python designed to be run specifically on
+The following is a list of games implemented in Python designed to be run specifically in
 CodeSkulptor (http://www.codeskulptor.org/) using its SimpleGUI Graphics Module. 
 
 1. 1_rock_paper_scissors_lizard_Spock.py
